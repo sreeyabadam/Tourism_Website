@@ -1,3 +1,3 @@
-Tourism Website
-Added First page/Start Page
-Favourite places_page
+<b>Tourism Website</b><br>
+Added First page/Start Page<br>
+Favourite places_page<br>
