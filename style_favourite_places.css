@@ -4,8 +4,8 @@
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
     height: auto;
     background-size: cover;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 420px;
+    margin-right: 420px;
 }
 .fp-main-heading{
     font-size: 28px;
@@ -21,7 +21,7 @@
     padding: 16px;
 }
 .fp-card-container-heading{
-    font-size: 28px;
+    font-size: 24px;
     font-family: Roboto;
     font-weight: bold;
     color: black;
