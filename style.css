@@ -9,21 +9,25 @@
 }
 .tourism-card {
   text-align: center;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.788);
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;
-  padding: 5px;
+  padding: 24px;
+  height: 35vh;
 }
 .button {
   color: white;
-  background-color: #25b1cc;
+  background-color:#25b1cc ;
   width: 138px;
   height: 36px;
   border-width: 0px;
   border-radius: 20px;
 }
 .main-heading {
-  font-family: "Roboto";
+  font-family: "Caveat";
+  color: #126374;
+  font-weight: bold;
+  font-size: 50px;
 }
 .paragraph {
   font-family: "Roboto";
@@ -72,6 +76,7 @@
   background-size: cover;
   margin-left: 420px;
   margin-right: 420px;
+  padding-bottom: 10px;
   
 }
 .detailed-view-heading {
