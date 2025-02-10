@@ -4,3 +4,4 @@
 Added First page/Start Page<br>
 Favourite places_page<br>
 Detailed View Pages-4<br>
+<h1><b>Static Web Design</b></h1>
